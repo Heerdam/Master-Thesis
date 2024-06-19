@@ -1,4 +1,6 @@
-This is my master thesis I wrote for my master thesis at ETH. Following the abstract.
+![ETH logo](https://github.com/Heerdam/Master-Thesis/blob/master/eth1.png)
+
+This is my master thesis I wrote for my master at ETH in 2024.
 # Abstract
 After some introductory musings a corpus of related work, in both analytical and data-driven bin and box packing methods is reviewed. These papers influenced this thesis considerably or are considered interesting and valuable addition. Next, a class of algorithmic problems are introduced. Specifically focusing on the NP complexity class, the relationship between bin packing and the NP class is explored. An explanation on how box packing relates and is an adaptation of 2D bin packing is provided, along with a brief discussion why dynamic programming cannot effectively solve the bin or box packing problem.<br />
 Following this, a first naïve approach is outlined and the reasons why clever approaches, such as spectral convolution, fail are discussed. The concept of tri-level convolution and the cost function heuristic are introduced. A reformulated packing problem is stated, and some analytical costfunctions are presented.<br />
